@@ -1,20 +1,21 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
-*.env
+
+# Virtual envs
 env/
 venv/
 ENV/
-*.DS_Store
 
 # SQLite DB
 attendance.db
 
-# IDE
-.vscode/
-.idea/
-
 # Uploads
 uploads/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

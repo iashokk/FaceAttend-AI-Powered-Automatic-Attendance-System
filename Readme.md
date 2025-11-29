@@ -94,7 +94,7 @@ Frontend: `http://localhost:3000`
 
 ## 🙌 Contributors
 
-- **Ashok** – Lead Developer
+- **Ashok** – Developer
 - **ChatGPT** – Architecture & Development Assistance
 
 ## 📄 License

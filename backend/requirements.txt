@@ -10,3 +10,5 @@ python-jose
 face_recognition
 opencv-python
 numpy
+email-validator
+face_recognition_models

@@ -57,7 +57,7 @@ FaceAttend is a modern, intelligent attendance management system built using Pyt
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn app.main:app --reload
+python -m uvicorn app.main:app --reload
 ```
 API: `http://localhost:8000` | Docs: `http://localhost:8000/docs`
 
